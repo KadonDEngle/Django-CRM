@@ -8,9 +8,9 @@ Basic Django CRM app. First Django project and will be the starting point for my
 ## Installation
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/KadonDEngle/Django-CRM.git
+git clone https://github.com/KadonDEngle/django-crm.git
 
-cd Django-CRM
+cd django-crm
 ```
 
 ### 2. Install Dependencies
@@ -36,3 +36,6 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
